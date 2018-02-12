@@ -1,0 +1,4 @@
+rajsagar	cloud	200
+rawool	space	50
+henryuser clear	40
+student17	pass	100
