@@ -11,7 +11,7 @@ class cl_aws():
     AWSKEY = None
     AWSBUCKET = None
     
-    #rajawsdb
+   
     
     def __init__(self):
         self.conn = boto.connect_s3(cl_aws.AWSID, cl_aws.AWSKEY)
