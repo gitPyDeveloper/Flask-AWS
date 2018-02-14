@@ -7,9 +7,9 @@ logging.basicConfig(stream=sys.stderr, level=logging.DEBUG)
 
 class cl_aws():
     
-    AWSID = "AKIAJHHAW2DIMZBTZA2A"
-    AWSKEY = "FdciYLmouXFwtvkMrn+TqJAyoisZO6o7k0y9F+xt"
-    AWSBUCKET = "rajrawoolbucket"
+    AWSID = None
+    AWSKEY = None
+    AWSBUCKET = None
     
     #rajawsdb
     

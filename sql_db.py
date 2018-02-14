@@ -8,13 +8,6 @@ logging.basicConfig(stream=sys.stderr, level=logging.DEBUG)
 
 class cl_mySQL_DB():
     
-    
-    # AWS connections
-    #C_HOST_NAME = "rajawsdb.cfrxcsxi3tua.us-east-1.rds.amazonaws.com"
-    #C_USER_NAME = "root"
-    #C_USER_PASSWORD = "sagar123"
-    #C_DB_NAME = "CRT"
-
 
     C_HOST_NAME = "localhost"
     C_USER_NAME = "root"
