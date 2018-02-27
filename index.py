@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 
 #from aws_function import *
-from sql_function import *
+from aws_function import *
 
 
 '''
